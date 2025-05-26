@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">वादा करो</string>
+    <string name="add_promise">वादा जोड़ें</string>
+    <string name="promise_hint">अपना वादा यहाँ लिखें…</string>
+    <string name="save">सहेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="promises_made">किए गए वादे</string>
+    <string name="share_promise">वादा साझा करें</string>
+    <string name="created_on">बनाया गया</string>
+    <string name="swipe_to_move">कार्ड्स को हिलाने के लिए स्वाइप करें</string>
+    <string name="tap_to_flip">पलटने के लिए टैप करें</string>
+    <string name="celebrate1">अपनी यात्रा शुरू करें! 🌟</string>
+    <string name="celebrate2">आप अभी शुरुआत कर रहे हैं! ✨</string>
+    <string name="celebrate3">आप बहुत बढ़िया प्रगति कर रहे हैं! 💫</string>
+    <string name="celebrate4">आप अजेय होते जा रहे हैं! 🎯</string>
+    <string name="celebrate5">आप बिल्कुल अद्भुत हैं! 🎉</string>
+</resources> 

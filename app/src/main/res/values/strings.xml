@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Promise Myself</string>
+    <string name="add_promise">Add New Promise</string>
+    <string name="promise_hint">Write your promise here…</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="promises_made">Promises Made</string>
+    <string name="share_promise">Share Promise</string>
+    <string name="created_on">Created on</string>
+    <string name="swipe_to_move">Swipe to move cards</string>
+    <string name="tap_to_flip">Tap to flip</string>
+    <string name="celebrate1">Start your journey! 🌟</string>
+    <string name="celebrate2">You are just getting started! ✨</string>
+    <string name="celebrate3">You are making great progress! 💫</string>
+    <string name="celebrate4">You are becoming unstoppable! 🎯</string>
+    <string name="celebrate5">You are absolutely amazing! 🎉</string>
+</resources>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kendime Söz</string>
+    <string name="add_promise">Yeni Söz Ekle</string>
+    <string name="promise_hint">Sözünüzü buraya yazın…</string>
+    <string name="save">Ekle</string>
+    <string name="cancel">İptal</string>
+    <string name="promises_made">Verilen Sözler</string>
+    <string name="share_promise">Sözü Paylaş</string>
+    <string name="created_on">Oluşturulma Tarihi</string>
+    <string name="swipe_to_move">Kartları hareket ettirmek için kaydırın</string>
+    <string name="tap_to_flip">Çevirmek için dokunun</string>
+    <string name="celebrate1">Yolculuğunuza başlayın! 🌟</string>
+    <string name="celebrate2">Daha yeni başlıyorsunuz! ✨</string>
+    <string name="celebrate3">Harika ilerleme kaydediyorsunuz! 💫</string>
+    <string name="celebrate4">Durdurulamaz hale geliyorsunuz! 🎯</string>
+    <string name="celebrate5">Kesinlikle harikasınız! 🎉</string>
+</resources> 

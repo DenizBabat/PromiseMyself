@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prométeme</string>
+    <string name="add_promise">Añadir Promesa</string>
+    <string name="promise_hint">Escribe tu promesa aquí…</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="promises_made">Promesas Hechas</string>
+    <string name="share_promise">Compartir Promesa</string>
+    <string name="created_on">Creado el</string>
+    <string name="swipe_to_move">Desliza para mover las tarjetas</string>
+    <string name="tap_to_flip">Toca para voltear</string>
+    <string name="celebrate1">Empieza tu viaje! 🌟</string>
+    <string name="celebrate2">Apenas estás empezando! ✨</string>
+    <string name="celebrate3">Estás progresando muchísimo! 💫</string>
+    <string name="celebrate4">Te estás volviendo imparable! 🎯</string>
+    <string name="celebrate5">Eres absolutamente increíble! 🎉</string>
+</resources>
